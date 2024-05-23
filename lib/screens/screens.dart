@@ -1,0 +1,11 @@
+export 'premium_screen.dart';
+export 'game_screen.dart';
+export 'info_screen.dart';
+export 'shop_screen.dart';
+export 'settings_screen.dart';
+export 'player_skins_screen.dart';
+export 'backgrounds_skins_screen.dart';
+export 'end_game_screen.dart';
+export 'jackpot_screen.dart';
+export 'lucky_game_screen.dart';
+export 'navigation_screen.dart';
